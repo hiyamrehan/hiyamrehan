@@ -1,5 +1,6 @@
 ## about.txt
-My name is **Hiyam Rehan**. I am a Computer Science student, currently in my final year at FAST NUCES. I also do illustration on the side, with 10 years of experience.
+My name is **Hiyam Rehan**. I am a Computer Science student, currently in my final year at FAST NUCES. I also do illustration on the side, with 10 years of experience. <br>
+My GitHub contains all of the projects I've worked on in the course of my degree.
 
 <hr>
 
