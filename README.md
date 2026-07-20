@@ -5,5 +5,5 @@ My name is **Hiyam Rehan**. I am a Computer Science student, currently in my fin
 
 ## skills.txt
 
-My programming langauges:
+My programming langauges: <br>
 <img src="cpp_logo.png" alt="c++" width="50"/> <img src="C_Logo.png" alt="c" width="50"/> <img src="Csharp_Logo.png" alt="drawing" width="50"/> <img src="Python-logo-notext.svg.webp" alt="python" width="50"/>
